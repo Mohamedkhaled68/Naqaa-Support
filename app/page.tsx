@@ -14,7 +14,7 @@ export default function Home() {
         },
         {
             question: "Is Naqaa available for both iOS and Android?",
-            answer: "Yes, Naqaa is available for download on both the App Store and Google Play Store.",
+            answer: "Yes, Naqaa is available for download on App Store.",
         },
     ];
 
@@ -64,19 +64,19 @@ export default function Home() {
                     <p className="text-gray-700">
                         Email:{" "}
                         <a
-                            href="mailto:support@naqaa.com"
+                            href="mailto:karimelfarr@icloud.com"
                             className="text-green-600 hover:underline"
                         >
-                            support@naqaa.com
+                            karimelfarr@icloud.com
                         </a>
                     </p>
                     <p className="text-gray-700">
                         Phone:{" "}
                         <a
-                            href="tel:+201234567890"
+                            href="tel:+201044719922"
                             className="text-green-600 hover:underline"
                         >
-                            +20 123 456 7890
+                            +20 104 471 9922
                         </a>
                     </p>
                 </section>
